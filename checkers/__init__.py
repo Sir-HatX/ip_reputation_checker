@@ -1,1 +1,1 @@
-from . import abuseipdb, vt_check, ipqualityscore, greynoise, alienvault
+from .vt_checker import check

@@ -1,0 +1,97 @@
+##################################################
+IP 88.216.248.72
+--------------------------------------------------
+AbuseIPDB: Error: 500 Server Error: Internal Server Error for url: https://api.abuseipdb.com/api/v2/check?ipAddress=88.216.248.72&maxAgeInDays=90
+VirusTotal: Malicious: 0, Suspicious: 0
+IPQualityScore:
+Fraud Score: 39
+VPN: False, Proxy: False, Tor: False
+Bot: False, Abuse: False
+ISP: Windstream Communications, Org: Windstream Communications
+Loc: Dallas, Texas, US
+Host: 88.216.248.72, ASN: 7029
+##################################################
+
+##################################################
+IP 200.239.200.72
+--------------------------------------------------
+AbuseIPDB: Error: 500 Server Error: Internal Server Error for url: https://api.abuseipdb.com/api/v2/check?ipAddress=200.239.200.72&maxAgeInDays=90
+VirusTotal: Malicious: 0, Suspicious: 0
+IPQualityScore:
+Fraud Score: 23
+VPN: False, Proxy: False, Tor: False
+Bot: False, Abuse: False
+ISP: ML Telecom, Org: ML Telecom
+Loc: Niteroi, Rio de Janeiro, BR
+Host: 200.239.200.72, ASN: 10704
+##################################################
+
+##################################################
+IP 89.46.0.205
+--------------------------------------------------
+AbuseIPDB: Error: 500 Server Error: Internal Server Error for url: https://api.abuseipdb.com/api/v2/check?ipAddress=89.46.0.205&maxAgeInDays=90
+VirusTotal: Malicious: 0, Suspicious: 0
+IPQualityScore:
+Fraud Score: 56
+VPN: False, Proxy: False, Tor: False
+Bot: False, Abuse: False
+ISP: Private Proxy, Org: Private Proxy
+Loc: Ashburn, Virginia, US
+Host: 89.46.0.205, ASN: 7018
+##################################################
+
+##################################################
+IP 37.218.218.191
+--------------------------------------------------
+AbuseIPDB: Error: 500 Server Error: Internal Server Error for url: https://api.abuseipdb.com/api/v2/check?ipAddress=37.218.218.191&maxAgeInDays=90
+VirusTotal: Malicious: 0, Suspicious: 0
+IPQualityScore:
+Fraud Score: 100
+VPN: False, Proxy: True, Tor: False
+Bot: True, Abuse: True
+ISP: AT&T Internet, Org: AT&T Internet
+Loc: Washington, District of Columbia, US
+Host: 37.218.218.191, ASN: 7018
+##################################################
+
+##################################################
+IP 66.207.184.191
+--------------------------------------------------
+AbuseIPDB: Error: 500 Server Error: Internal Server Error for url: https://api.abuseipdb.com/api/v2/check?ipAddress=66.207.184.191&maxAgeInDays=90
+VirusTotal: Malicious: 0, Suspicious: 0
+IPQualityScore:
+Fraud Score: 100
+VPN: False, Proxy: True, Tor: False
+Bot: True, Abuse: True
+ISP: Windstream Communications, Org: Windstream Communications
+Loc: New York City, New York, US
+Host: 66.207.184.191, ASN: 7029
+##################################################
+
+##################################################
+IP 175.29.134.191
+--------------------------------------------------
+AbuseIPDB: Error: 500 Server Error: Internal Server Error for url: https://api.abuseipdb.com/api/v2/check?ipAddress=175.29.134.191&maxAgeInDays=90
+VirusTotal: Malicious: 0, Suspicious: 0
+IPQualityScore:
+Fraud Score: 100
+VPN: False, Proxy: True, Tor: False
+Bot: True, Abuse: True
+ISP: Windstream Communications, Org: AT&T Internet
+Loc: Chicago, Illinois, US
+Host: 175.29.134.191, ASN: 7018
+##################################################
+
+##################################################
+IP 84.55.4.205
+--------------------------------------------------
+AbuseIPDB: Error: 500 Server Error: Internal Server Error for url: https://api.abuseipdb.com/api/v2/check?ipAddress=84.55.4.205&maxAgeInDays=90
+VirusTotal: Malicious: 0, Suspicious: 0
+IPQualityScore:
+Fraud Score: 0
+VPN: False, Proxy: False, Tor: False
+Bot: False, Abuse: False
+ISP: 1&1 Versatel, Org: 1&1 Versatel
+Loc: Kaunas, Kauno apskritis, LT
+Host: 84.55.4.205, ASN: 8881
+##################################################

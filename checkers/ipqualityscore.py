@@ -23,6 +23,7 @@ def check(ip):
         city = data.get("city", "N/A")
         region = data.get("region", "N/A")
         country = data.get("country_code", "N/A")
+        ASN = data.get("ASN", "N/A")
 
         return (
             f"Fraud Score: {fraud_score}\n"
@@ -30,7 +31,7 @@ def check(ip):
             f"Bot: {is_bot}, Abuse: {is_abuser}\n"
             f"ISP: {isp}, Org: {org}\n"
             f"Loc: {city}, {region}, {country}\n"
-            f"Host: {hostname}"
+            f"Host: {hostname}, ASN: {ASN}"
         )
     except Exception as e:
         return f"Error: {e}"
